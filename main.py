@@ -26,7 +26,7 @@ def main():
         ellapsed = clock.tick(60)
         dt = ellapsed/1000
 
-        print(dt)
+        
 
 
 
