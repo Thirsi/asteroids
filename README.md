@@ -31,9 +31,9 @@ This project is a beginner-friendly arcade game inspired by the classic *Asteroi
 ```
 
 ## Getting Started
-```text
-Make sure you have:
 
+Make sure you have:
+```text
 - Python 3
 - Pip
 ```
@@ -50,44 +50,45 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 Install Dependencies:
-
+```text
 pip install pygame
-
+```
 Running the Game:
-
+```text
 python main.py
-
+```
 ## Controls
-
+```text
     A — rotate left
     D — rotate right
     W — move forward
     S — move backward
-
+```
 ## What I Learned
 
 Through this project, I practiced:
-
+```text
 -   working with Pygame
 -   building a basic game loop
 -   handling keyboard input
 -   using delta time for smooth movement
 -   organizing code across multiple files
-
+```
 ## Future Improvements
 
 Possible next steps for the project:
-
+```text
 -   shooting mechanics
 -   asteroid spawning and collisions
 -   score tracking
 -   sound effects
 -   game over and restart logic
-
+```
 ## Acknowledgements
-
+```text
 Built as part of the Boot.dev backend and computer science curriculum.
-
+```
 ## License
-
+```text
 This project is for educational purposes.
+```
