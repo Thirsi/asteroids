@@ -55,7 +55,7 @@ pip install pygame
 ```
 Running the Game:
 ```text
-python main.py
+python3 main.py
 ```
 ## Controls
 
