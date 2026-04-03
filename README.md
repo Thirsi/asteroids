@@ -28,25 +28,27 @@ This project is a beginner-friendly arcade game inspired by the classic *Asteroi
 ├── circleshape.py
 ├── logger.py
 └── pyproject.toml
+```
 
 ## Getting Started
+```text
+Make sure you have:
 
-Make sure you have
 - Python 3
 - Pip
-
+```
 ## Installation
 
 Clone the repo:
-
+```text
 https://github.com/Thirsi/asteroids
 cd asteroids
-
+```
 Create and Activate a Virtual Environment:
-
+```text
 python3 -m venv venv
 source venv/bin/activate
-
+```
 Install Dependencies:
 
 pip install pygame
