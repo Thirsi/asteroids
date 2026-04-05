@@ -63,6 +63,8 @@ python3 main.py
     D — rotate right
     W — move forward
     S — move backward
+    
+    Spacebar to shoot
 
 ## What I Learned
 
